@@ -1,0 +1,48 @@
+.image {
+    width:100%;
+    height:300px;
+    background-image: url("/dynamic/fe/img/cvprofile.jpg");
+    background-size:cover;
+    background-position: 0px;
+}
+.main {
+    background-color:#e1e1e1;
+}
+.issa-title {
+    height:130px;
+    background-color:#2c3e50;
+    margin-top:55px;
+}
+#issa-title, #issa-title2 {
+    font-size:35px;
+    line-height:65px;
+    color:White;
+    margin-left:20px;
+}
+#issa-title2 {
+    font-size:20px
+}
+.sidebar {
+    float:left;
+    background-color: rgb(67, 67, 67);
+    padding: 0 0 55px 0;
+}
+.issa-content {
+    width:65%;
+    float:left;
+}
+.issa-text {
+    margin:25px 0 25px 0;
+}
+.mini-title {
+    margin-left:20px;
+    font-weight:800;
+    color:rgba(0, 0, 0, 0.726);
+    text-decoration: underline;
+}
+.mini-body {
+    margin:0 20px 0 20px;
+}
+#side, #side>.mini-title {
+    color:rgb(210, 210, 210);
+}

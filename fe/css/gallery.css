@@ -1,0 +1,23 @@
+a:hover {
+    color:rgb(217, 217, 217);
+    filter:opacity(70%)
+} 
+
+a.image {
+    border: 2px solid white;
+    height:250px;
+    width:250px;
+    background-size:cover;
+    background-position: center;    
+    display:inline-block;
+    margin:20px;
+}
+
+.main {
+    display:inline-flex;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content: center;
+}
+
+body {margin:0;background-color:rgb(211, 211, 211);}
